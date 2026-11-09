@@ -1,0 +1,30 @@
+// The game's master palette. Every sprite, tile and UI element draws from these ramps (dark -> light).
+export const PAL = {
+  ink: "#140f22",
+  inkSoft: "#2a2140",
+  white: "#fff8ec",
+  skin: ["#a8604e", "#d98e6c", "#f4c39c"],
+  hair: ["#5a2420", "#8a3b2a", "#c4613a"],
+  teal: ["#173f47", "#2a7a74", "#46b39a", "#9be3c2"],
+  scarf: ["#8f2f2a", "#d8573a", "#f2a43c"],
+  pants: ["#2c2440", "#47396a"],
+  steel: ["#4c5a78", "#8fa3c0", "#dbe7f5"],
+  gold: ["#7a4612", "#c47f1e", "#f2c03a", "#fff0a0"],
+  grass: ["#1f4a2e", "#2f7a3a", "#5cb43f", "#a8e05a"],
+  dirt: ["#2a1a22", "#4a2e2c", "#6e4636", "#93644a"],
+  stone: ["#25223a", "#3b3656", "#5a5478", "#8580a3", "#b7b2cc"],
+  moss: ["#2b4a2a", "#4f7a36"],
+  wood: ["#3a2218", "#6a3e24", "#9a6638", "#c99654"],
+  gloam: ["#2a0f3a", "#5a1f78", "#9a3fc0", "#d77df0", "#ffd0ff"],
+  slime: ["#3a1a5a", "#6b3fa0", "#9b6ad0", "#d9b8ff"],
+  eye: ["#ffe066", "#ff5a7a"],
+  water: ["#1a2f5a", "#28508a", "#3f7fc0", "#7cc4ec", "#d0f2ff"],
+  leaf: ["#1d3b2a", "#2e5e34", "#468a3c", "#7bbf4c"],
+  sky: ["#2a2f6a", "#3f5aa8", "#6b8ed6", "#a8c6ee", "#f4d8c8"],
+  mountain: ["#2f3270", "#45488e", "#6468ad"],
+  roof: ["#6a2430", "#a03a3a", "#d0604a"],
+  robe: ["#22402c", "#386a3a", "#5c9a48"],
+  beard: ["#a9a3b8", "#e6e2ee"],
+} as const;
+
+export const hexNum = (h: string): number => parseInt(h.replace("#", ""), 16);

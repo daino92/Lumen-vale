@@ -1,0 +1,1513 @@
+{
+ "frames": [
+  {
+   "filename": "checkpoint-flare 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 1",
+   "frame": {
+    "x": 96,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 2",
+   "frame": {
+    "x": 192,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 3",
+   "frame": {
+    "x": 288,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 4",
+   "frame": {
+    "x": 384,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 5",
+   "frame": {
+    "x": 480,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 6",
+   "frame": {
+    "x": 576,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 7",
+   "frame": {
+    "x": 672,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 8",
+   "frame": {
+    "x": 768,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 9",
+   "frame": {
+    "x": 864,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 10",
+   "frame": {
+    "x": 0,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 11",
+   "frame": {
+    "x": 96,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 12",
+   "frame": {
+    "x": 192,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 13",
+   "frame": {
+    "x": 288,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 14",
+   "frame": {
+    "x": 384,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 15",
+   "frame": {
+    "x": 480,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 16",
+   "frame": {
+    "x": 576,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 17",
+   "frame": {
+    "x": 672,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 18",
+   "frame": {
+    "x": 768,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 19",
+   "frame": {
+    "x": 864,
+    "y": 120,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 20",
+   "frame": {
+    "x": 0,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 21",
+   "frame": {
+    "x": 96,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 22",
+   "frame": {
+    "x": 192,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 23",
+   "frame": {
+    "x": 288,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 24",
+   "frame": {
+    "x": 384,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 25",
+   "frame": {
+    "x": 480,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 26",
+   "frame": {
+    "x": 576,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 27",
+   "frame": {
+    "x": 672,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 28",
+   "frame": {
+    "x": 768,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 29",
+   "frame": {
+    "x": 864,
+    "y": 240,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 30",
+   "frame": {
+    "x": 0,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 31",
+   "frame": {
+    "x": 96,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 32",
+   "frame": {
+    "x": 192,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 33",
+   "frame": {
+    "x": 288,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 34",
+   "frame": {
+    "x": 384,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 35",
+   "frame": {
+    "x": 480,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 36",
+   "frame": {
+    "x": 576,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 37",
+   "frame": {
+    "x": 672,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 38",
+   "frame": {
+    "x": 768,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 39",
+   "frame": {
+    "x": 864,
+    "y": 360,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 40",
+   "frame": {
+    "x": 0,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 41",
+   "frame": {
+    "x": 96,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 42",
+   "frame": {
+    "x": 192,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 43",
+   "frame": {
+    "x": 288,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 44",
+   "frame": {
+    "x": 384,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 45",
+   "frame": {
+    "x": 480,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 46",
+   "frame": {
+    "x": 576,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 47",
+   "frame": {
+    "x": 672,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 48",
+   "frame": {
+    "x": 768,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 49",
+   "frame": {
+    "x": 864,
+    "y": 480,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 50",
+   "frame": {
+    "x": 0,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 51",
+   "frame": {
+    "x": 96,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 52",
+   "frame": {
+    "x": 192,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 53",
+   "frame": {
+    "x": 288,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 54",
+   "frame": {
+    "x": 384,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 55",
+   "frame": {
+    "x": 480,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 56",
+   "frame": {
+    "x": 576,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 57",
+   "frame": {
+    "x": 672,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 58",
+   "frame": {
+    "x": 768,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 59",
+   "frame": {
+    "x": 864,
+    "y": 600,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 60",
+   "frame": {
+    "x": 0,
+    "y": 720,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 61",
+   "frame": {
+    "x": 96,
+    "y": 720,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 62",
+   "frame": {
+    "x": 192,
+    "y": 720,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 63",
+   "frame": {
+    "x": 288,
+    "y": 720,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 64",
+   "frame": {
+    "x": 384,
+    "y": 720,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 65",
+   "frame": {
+    "x": 480,
+    "y": 720,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  },
+  {
+   "filename": "checkpoint-flare 66",
+   "frame": {
+    "x": 576,
+    "y": 720,
+    "w": 96,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 120
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "checkpoint-flare.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 960,
+   "h": 840
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "checkpoint-flare",
+    "from": 0,
+    "to": 66,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "game/checkpoint-flare",
+   "name": "Checkpoint flare",
+   "fps": 30,
+   "loop": false,
+   "frames": 67,
+   "frameSize": [
+    96,
+    120
+   ],
+   "pivot": [
+    48,
+    108
+   ],
+   "columns": 10
+  }
+ }
+}

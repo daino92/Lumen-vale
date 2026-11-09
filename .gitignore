@@ -1,0 +1,11 @@
+node_modules/
+dist/
+# pixelfx authoring checkout (effects are vendored into src/game/effects/pixelfx)
+/pixelfx/
+
+# Local machine and assistant files
+.DS_Store
+.claude/
+.env
+.env.*
+!.env.example
